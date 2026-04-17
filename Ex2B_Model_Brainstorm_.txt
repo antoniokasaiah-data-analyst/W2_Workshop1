@@ -1,0 +1,6 @@
+# Requirements and Conceptual Model
+Kasaiah Antonio
+Qualitative : describes labels and values
+              table headings
+Quantitative: measurable values 
+              dates and times
